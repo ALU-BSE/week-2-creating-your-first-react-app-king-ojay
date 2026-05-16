@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './MyComponent.css'; // I added the css file for styling
 const MyComponent: React.FC = () => {
   return (
     <div>
